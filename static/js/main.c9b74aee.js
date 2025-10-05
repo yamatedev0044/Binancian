@@ -12866,7 +12866,7 @@
                   e.target.style.transform = "scale(1)";
                 },
                 onClick: () =>
-                  window.open("https://t.me/#", "_blank"),
+                  window.open("https://t.me/binancian_bsc", "_blank"),
               }),
               (0, a.jsx)("img", {
                 src: "/images/xbtn.png",
@@ -12882,7 +12882,7 @@
                   e.target.style.transform = "scale(1)";
                 },
                 onClick: () =>
-                  window.open("https://x.com/#", "_blank"),
+                  window.open("https://x.com/binancian_meme", "_blank"),
               }),
               (0, a.jsx)("img", {
                 src: "/images/dexbtn.png",
